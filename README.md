@@ -15,7 +15,7 @@ python build.py
 | `cv_tolgahan_keles_ats_metin.txt` | ATS'nin PDF'ten okuyacağı düz metin. Kontrol için buna bak |
 | `cv_tolgahan_keles.html` | Ara dosya (PDF bundan üretilir) |
 
-Gereksinimler: Python 3, Chrome veya Edge (PDF için), `pip install pyyaml python-docx pymupdf pillow`.
+Gereksinimler: Python 3, Chrome veya Edge (PDF için) ve `pip install -r requirements.txt`.
 
 ## Form yapısı
 
